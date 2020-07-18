@@ -4,7 +4,8 @@
 
 ### Add Some Slide Candy
 
-$$\alpha = 3$$
+Can I have something like trivial inline $E = m c^2$?
+
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
