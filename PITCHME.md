@@ -4,7 +4,16 @@
 
 ### Add Some Slide Candy
 
-Can I have something like trivial inline $E = m c^2$?
+@snap[west span-55]
+- Can I have something like trivial inline $E = m c^2$?
+- This is a list
+- another list
+@snapend
+
+@snap[east span-45]
+This is just some random text
+@snapend
+
 
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
