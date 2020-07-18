@@ -1,8 +1,9 @@
 # Dark Matter **Searches**
 
 ---
-
+@snap[north]
 ### Add Some Slide Candy
+@snapend
 
 @snap[west span-55]
 - Can I have something like trivial inline $E = m c^2$?
