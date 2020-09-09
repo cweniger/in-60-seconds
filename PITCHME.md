@@ -19,12 +19,6 @@ University of Amsterdam
 This is just some random text
 @snapend
 
-```mermaid
-graph LR;
-A --> B;
-```
-
-
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
