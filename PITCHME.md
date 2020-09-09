@@ -1,5 +1,9 @@
 # Dark Matter **Searches**
 
+Christoph Weniger
+
+University of Amsterdam
+
 ---
 @snap[north]
 ### Add Some Slide Candy
